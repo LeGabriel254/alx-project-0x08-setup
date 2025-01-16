@@ -25,7 +25,7 @@ const Home: React.FC = () => {
     <div className="flex flex-col items-center min-h-screen bg-gray-100 p-4">
       {/* Header Section */}
       <div className="flex flex-col items-center">
-        <h1 className="text-4xl font-bold mb-2">Image Generation App</h1>
+        <h1 className="text-4xl font-bold mb-2 text-slate-300">Image Generation App</h1>
         <p className="text-lg text-gray-700 mb-4">
           Generate stunning images based on your prompts!
         </p>
